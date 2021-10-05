@@ -58,7 +58,7 @@ a {
   height: 2px;
   position: absolute;
   margin: 1.625rem 0 2.063rem;
-  left: 530px;
+  left: calc(50% - 30px);
 }
 .services__seection {
   position: relative;
@@ -180,7 +180,7 @@ a {
   height: 2px;
   position: absolute;
   margin: 1.625rem 0 2.063rem;
-  left: 500px;
+  left: calc(50% - 30px);
 }
 
 .testimonials__section-figure {
@@ -263,7 +263,7 @@ a {
   height: 2px;
   position: absolute;
   margin: 1.625rem 0 2.063rem;
-  left: 530px;
+  left: calc(50% - 30px);
 }
 
 .footer__section {
