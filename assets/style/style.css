@@ -47,6 +47,7 @@ a {
 }
 .services__seection-headertext {
   margin-bottom: 3.813rem;
+  position: relative;
 }
 
 .services__seection-headertext::after {
@@ -57,7 +58,7 @@ a {
   height: 2px;
   position: absolute;
   margin: 1.625rem 0 2.063rem;
-  left: 656px;
+  left: 530px;
 }
 .services__seection {
   position: relative;
@@ -104,6 +105,9 @@ a {
   margin-top: 5rem;
 }
 
+.leading__seection-headertext {
+  position: relative;
+}
 .leading__seection-headertext::after {
   content: ' ';
   display: block;
@@ -112,7 +116,6 @@ a {
   height: 2px;
   position: absolute;
   margin: 1.625rem 0 2.063rem;
-  right: 508px;
 }
 
 .leading__seection {
@@ -126,6 +129,9 @@ a {
   margin-top: 59px;
 }
 
+.download__seection-headertext {
+  position: relative;
+}
 .download__seection-headertext::after {
   content: ' ';
   display: block;
@@ -134,7 +140,6 @@ a {
   height: 2px;
   position: absolute;
   margin: 1.625rem 0 2.063rem;
-  left: 150px;
 }
 
 .download__seection {
@@ -165,6 +170,7 @@ a {
 }
 .testimonials__seection-headertext {
   margin-top: 2rem;
+  position: relative;
 }
 .testimonials__seection-headertext::after {
   content: ' ';
@@ -174,7 +180,7 @@ a {
   height: 2px;
   position: absolute;
   margin: 1.625rem 0 2.063rem;
-  left: 656px;
+  left: 500px;
 }
 
 .testimonials__section-figure {
@@ -240,6 +246,7 @@ a {
 }
 .article__seection-headertext {
   margin-bottom: 7rem;
+  position: relative;
 }
 .article__seection .card img {
   border-radius: 20px 20px 0px 0px;
@@ -256,7 +263,7 @@ a {
   height: 2px;
   position: absolute;
   margin: 1.625rem 0 2.063rem;
-  left: 650px;
+  left: 530px;
 }
 
 .footer__section {
